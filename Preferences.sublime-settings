@@ -1,0 +1,56 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.scssc"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Sleeplessmind/Sleeplessmind.tmTheme",
+	"default_line_ending": "unix",
+	"detect_slow_plugins": true,
+	"folder_exclude_patterns":
+	[
+		"docs",
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Consolas",
+	"font_size": 9,
+	"gutter": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 1,
+	"margin": 2,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80,
+		120
+	],
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_ctrl_keys": true,
+	"word_wrap": "true"
+}
